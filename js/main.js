@@ -8,9 +8,9 @@ var yourAge = prompt("How old are you?");
 
 var yourCity = prompt("Where do you live?");
 
-var yourDreamProfession = prompt("What's you dream profession?");
+var yourDreamProfession = prompt("What's your dream profession?");
 
-var yourFavoritePlace = prompt("What's you favorite place in your city?");
+var yourFavoritePlace = prompt("What's your favorite place in your city?");
 
 var what_did_you_do = prompt("What did you do yesterday?");
 
